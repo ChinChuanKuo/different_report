@@ -1,4 +1,0 @@
-line 1 is same
-line 2 is sogo different
-line 3 is same
-line 4 is different
